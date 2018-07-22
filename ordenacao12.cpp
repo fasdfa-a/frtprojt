@@ -2,7 +2,7 @@
 using namespace std;
 
 void selection(int vetor[], int n){
-    int imenor;
+    int imenor; //testando o commit
     int aux;
     for(int i = n - 1; i > 0; --i){
         imenor = i;
